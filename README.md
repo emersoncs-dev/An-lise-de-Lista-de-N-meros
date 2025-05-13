@@ -7,15 +7,13 @@ An-lise-de-Lista-de-N-meros/
 ├── teste.py       # Executa a função com a lista
 └── README.md      # Explicações e instruções
 
-Como usar
-1.Clone o repositório (se estiver no GitHub)
-git clone (https://github.com/emersoncs-dev/An-lise-de-Lista-de-N-meros.git)
-
-2.Entre na pasta
-cd An-lise-de-Lista-de-N-meros
-
-3.Execute o script de teste
-python teste.py
+Como usar:
+Acesse o repositório no GitHub:
+https://github.com/emersoncs-dev/An-lise-de-Lista-de-N-meros
+Clique no botão "Code" e selecione "Download ZIP".
+Extraia o arquivo ZIP em qualquer pasta no seu computador.
+Abra o arquivo teste.py na sua IDE ou editor de código preferido.
+Execute o arquivo no Python para ver o funcionamento da análise de números.
 
 Exemplo de saída:
 Média: 19.07
