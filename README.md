@@ -9,7 +9,7 @@ An-lise-de-Lista-de-N-meros/
 
 Como usar
 1.Clone o repositório (se estiver no GitHub)
-git clone https://github.com/seu-usuario/analise_numeros.git
+git clone (https://github.com/emersoncs-dev/An-lise-de-Lista-de-N-meros.git)
 
 2.Entre na pasta
 cd An-lise-de-Lista-de-N-meros
